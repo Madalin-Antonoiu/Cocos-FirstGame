@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.0",
+  "name": "HelloWorld",
+  "id": "5b81dd89-5472-4514-97bb-d527a9d3853b",
+  "isNew": false
+}
